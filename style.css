@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+h1 {
+  color: #3F51B5;
+}
+#booking-form {
+  width: 500px;
+  margin: 0 auto;
+  text-align: left;
+}
